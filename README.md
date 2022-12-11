@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esrael</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esru13&label=Profile%20views&color=0e75b6&style=flat" alt="esru13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esru13" alt="esru13" /></a> </p>
-
 - 🏫 I’m currently learning **Software Engineering at (ASTU)**
 
 - 🌱 I'm currently learning **SE by ALX**
@@ -21,6 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esru13&show_icons=true&locale=en&layout=compact" alt="esru13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esru13&show_icons=true&locale=en" alt="esru13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esru13&" alt="esru13" /></p>
 
