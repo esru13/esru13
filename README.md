@@ -11,6 +11,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/esrael berhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esrael berhanu" height="30" width="40" /></a>
 <a href="https://instagram.com/israelik13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israelik13" height="30" width="40" /></a>
+  <a href="https://t.me/Isru13">
+    <img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="Telegram Badge">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
