@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esrael</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esru13&label=Profile%20views&color=0e75b6&style=flat" alt="esru13" /> </p>
 
-- 🏫 I graduated in Software Engineering from **ALX Africa**
-
-- 🏫 I’m currently learning **Software Engineering at (ASTU)**
+- 🏫 I graduated in Software Engineering from **ASTU**,**ALX Africa**
 
 - 📫 How to reach me **esraelb313@gmail.com**
 
